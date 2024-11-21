@@ -2,9 +2,8 @@
 - 👀 I’m interested in WEB-D
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me instagram(shaktiginare22)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:
 
 <!---
 shaktiginare22/shaktiginare22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
